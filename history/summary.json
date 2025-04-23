@@ -26,7 +26,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +35,18 @@
     "timeWeek": 232,
     "timeMonth": 283,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-23": 0
+    }
   },
   {
     "name": "ASIC",
     "url": "https://akiitr.github.io/asic",
     "icon": "https://icons.duckduckgo.com/ip3/akiitr.github.io.ico",
     "slug": "asic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +55,18 @@
     "timeWeek": 36,
     "timeMonth": 108,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-23": 0
+    }
   },
   {
     "name": "Resume",
     "url": "https://akiitr.github.io/resume",
     "icon": "https://icons.duckduckgo.com/ip3/akiitr.github.io.ico",
     "slug": "resume",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +75,9 @@
     "timeWeek": 40,
     "timeMonth": 125,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-23": 0
+    }
   },
   {
     "name": "IPv6 test",
