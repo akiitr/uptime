@@ -11,6 +11,10 @@ sites:
     url: https://akiitr.github.io/asic
   - name: Resume
     url: https://akiitr.github.io/resume
+  - name: akb1
+    url: https://akb1.centralindia.cloudapp.azure.com/
+  - name: akb2
+    url: https://akb1.centralindia.cloudapp.azure.com/
   - name: IPv6 test
     url: forwardemail.net
     port: 80
