@@ -14,7 +14,7 @@ sites:
   - name: akb1
     url: https://akb1.centralindia.cloudapp.azure.com/
   - name: akb2
-    url: https://akb1.centralindia.cloudapp.azure.com/
+    url: https://akb2.centralindia.cloudapp.azure.com/
   - name: IPv6 test
     url: forwardemail.net
     port: 80
