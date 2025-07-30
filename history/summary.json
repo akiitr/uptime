@@ -103,9 +103,9 @@
     "url": "https://akb2.centralindia.cloudapp.azure.com/",
     "icon": "https://icons.duckduckgo.com/ip3/akb2.centralindia.cloudapp.azure.com.ico",
     "slug": "akb2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +114,9 @@
     "timeWeek": 712,
     "timeMonth": 712,
     "timeYear": 712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-30": 0
+    }
   },
   {
     "name": "IPv6 test",
