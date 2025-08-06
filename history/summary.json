@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 117,
-    "timeDay": 89,
+    "time": 116,
+    "timeDay": 90,
     "timeWeek": 82,
     "timeMonth": 102,
-    "timeYear": 117,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2025-07-10": 24,
       "2025-01-29": 20
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 353,
-    "timeWeek": 287,
-    "timeMonth": 304,
+    "timeDay": 375,
+    "timeWeek": 305,
+    "timeMonth": 308,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2025-04-23": 25
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 109,
-    "timeDay": 349,
-    "timeWeek": 104,
-    "timeMonth": 143,
-    "timeYear": 109,
+    "time": 110,
+    "timeDay": 322,
+    "timeWeek": 146,
+    "timeMonth": 151,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2025-04-23": 25
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 113,
-    "timeDay": 310,
-    "timeWeek": 100,
-    "timeMonth": 111,
-    "timeYear": 113,
+    "time": 114,
+    "timeDay": 316,
+    "timeWeek": 140,
+    "timeMonth": 119,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2025-04-23": 25
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 717,
-    "timeDay": 716,
-    "timeWeek": 693,
-    "timeMonth": 717,
-    "timeYear": 717,
+    "time": 716,
+    "timeDay": 705,
+    "timeWeek": 703,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {}
   },
   {
@@ -104,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/akb2.centralindia.cloudapp.azure.com.ico",
     "slug": "akb2",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
-    "time": 725,
-    "timeDay": 743,
-    "timeWeek": 742,
-    "timeMonth": 725,
-    "timeYear": 725,
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 723,
+    "timeDay": 698,
+    "timeWeek": 730,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2025-07-31": 21,
       "2025-07-30": 62
