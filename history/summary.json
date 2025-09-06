@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 82,
-    "timeWeek": 84,
+    "timeDay": 96,
+    "timeWeek": 86,
     "timeMonth": 95,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 276,
-    "timeDay": 345,
-    "timeWeek": 363,
-    "timeMonth": 334,
-    "timeYear": 276,
+    "time": 277,
+    "timeDay": 572,
+    "timeWeek": 409,
+    "timeMonth": 341,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2025-04-23": 25
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 114,
-    "timeDay": 307,
-    "timeWeek": 198,
-    "timeMonth": 141,
-    "timeYear": 114,
+    "time": 116,
+    "timeDay": 494,
+    "timeWeek": 239,
+    "timeMonth": 152,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2025-04-23": 25
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 118,
-    "timeDay": 334,
-    "timeWeek": 208,
-    "timeMonth": 144,
-    "timeYear": 118,
+    "time": 120,
+    "timeDay": 492,
+    "timeWeek": 251,
+    "timeMonth": 155,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2025-04-23": 25
     }
@@ -92,9 +92,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.59%",
     "time": 737,
-    "timeDay": 745,
+    "timeDay": 736,
     "timeWeek": 768,
-    "timeMonth": 744,
+    "timeMonth": 743,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-08-12": 104,
@@ -107,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/akb2.centralindia.cloudapp.azure.com.ico",
     "slug": "akb2",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "87.90%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.56%",
-    "time": 2277,
-    "timeDay": 8111,
-    "timeWeek": 5439,
-    "timeMonth": 2820,
-    "timeYear": 2277,
+    "uptime": "99.57%",
+    "uptimeDay": "88.22%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.57%",
+    "time": 2632,
+    "timeDay": 9983,
+    "timeWeek": 6622,
+    "timeMonth": 3283,
+    "timeYear": 2632,
     "dailyMinutesDown": {
-      "2025-09-06": 175,
+      "2025-09-06": 170,
       "2025-07-31": 21,
       "2025-07-30": 62
     }
