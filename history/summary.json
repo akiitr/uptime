@@ -13,7 +13,7 @@
     "time": 113,
     "timeDay": 92,
     "timeWeek": 101,
-    "timeMonth": 93,
+    "timeMonth": 94,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2025-07-10": 24,
@@ -34,7 +34,7 @@
     "time": 278,
     "timeDay": 243,
     "timeWeek": 260,
-    "timeMonth": 325,
+    "timeMonth": 322,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-04-23": 25
@@ -54,7 +54,7 @@
     "time": 114,
     "timeDay": 87,
     "timeWeek": 72,
-    "timeMonth": 131,
+    "timeMonth": 132,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2025-09-16": 356,
@@ -75,7 +75,7 @@
     "time": 118,
     "timeDay": 47,
     "timeWeek": 88,
-    "timeMonth": 137,
+    "timeMonth": 138,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-04-23": 25
@@ -87,18 +87,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/akb1.centralindia.cloudapp.azure.com.ico",
     "slug": "akb1",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.62%",
+    "uptime": "99.48%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.48%",
     "time": 780,
     "timeDay": 1016,
     "timeWeek": 906,
-    "timeMonth": 814,
+    "timeMonth": 816,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-09-16": 0,
+      "2025-09-17": 64,
+      "2025-09-16": 39,
       "2025-09-11": 17,
       "2025-09-07": 22,
       "2025-08-12": 104,
@@ -119,7 +120,7 @@
     "time": 3614,
     "timeDay": 798,
     "timeWeek": 834,
-    "timeMonth": 4973,
+    "timeMonth": 5055,
     "timeYear": 3614,
     "dailyMinutesDown": {
       "2025-09-07": 126,
